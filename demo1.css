@@ -1,0 +1,9 @@
+
+    .square{
+        width:30%;
+        margin:1%;
+        background-color:orange;
+        padding: 0 0 30% 0;
+        float: left;
+        border-radius: 10px;
+    }
