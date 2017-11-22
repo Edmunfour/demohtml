@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(104,205,213);
+}
+.text{
+    display: block;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.image {
+    height: 77px;
+    width: 72px;
+    float: left;
+}
+.top{
+    margin: 10% auto;
+    width: 182px;
+    height: 100px;
+}
+.textbox{
+    float: right;
+    width: 110px;
+    padding-top: 1.5rem;
+}
+.middle{
+    display: block;
+    margin-top:10%;
+    color: #ffffff;
+    text-align: center;
+}
+.image1{
+    height: 87px;
+    width: 87px;
+}
+.text1{
+    color: #ffffff;
+    display: block;
+}
+.bottom{
+    width: 64%;
+    margin: 12% 20%;
+
+}
